@@ -1,9 +1,9 @@
-# AZSMZ-ESPMatrixPanel
+# AZSMZ MatrixPanels
 
-## With ESP32
+## AZSMZ ESP32 Matrix
 ![AZSMZ ESP32 Matrix](ESP32Photos/ESP32MATRIX-A12-1024.jpg)
 
-## With ESP8266
+## AZSMZ ESPMatrixPanel(ESP8266)
 ![AZSMZ ESPMatrixPanel-6](Photos/24.jpg)
 ![AZSMZ ESPMatrixPanel-6](Photos/6.jpg)
 ![AZSMZ ESPMatrixPanel-1](Photos/1.jpg)
