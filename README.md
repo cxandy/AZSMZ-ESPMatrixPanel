@@ -1,5 +1,3 @@
-# AZSMZ MatrixPanels
-
 ## [AZSMZ ESP32 Matrix](/ESP32%20Matrix)   
 ![AZSMZ ESP32 Matrix](ESP32Photos/ESP32MATRIX-A12-1024.jpg)
 
