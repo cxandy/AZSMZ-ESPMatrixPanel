@@ -1,14 +1,14 @@
 # AZSMZ-ESPMatrixPanel
 
 ## With ESP32
-![AZSMZ ESP32 Matrix](ESP32Photos/1.jpg)
+![AZSMZ ESP32 Matrix](ESP32Photos/ESP32MATRIX-A12-1024.jpg)
 
 ## With ESP8266
-![AZSMZ ESPMatrixPanel-1](Photos/1.jpg)
-
 ![AZSMZ ESPMatrixPanel-6](Photos/24.jpg)
 ![AZSMZ ESPMatrixPanel-6](Photos/6.jpg)
+![AZSMZ ESPMatrixPanel-1](Photos/1.jpg)
 ![AZSMZ ESPMatrixPanel-6](Photos/9.jpg)
+
 
 ## https://github.com/2dom/PxMatrix
 ## https://github.com/witnessmenow/WiFi-Tetris-Clock
