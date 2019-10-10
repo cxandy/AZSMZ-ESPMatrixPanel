@@ -6,7 +6,7 @@
 
 ## https://github.com/mrfaptastic/ESP32-RGB64x32MatrixPanel-I2S-DMA
 
-By default the pin mapping is as follows (defaults defined in ESP32-RGB64x32MatrixPanel-I2S-DMA.h).
+the pin mapping is as follows.
 
 ```
  HUB 75 PANEL              ESP 32 PIN
