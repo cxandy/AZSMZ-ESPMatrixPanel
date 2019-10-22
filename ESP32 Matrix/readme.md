@@ -1,4 +1,4 @@
-# AZSMZ ESP32 Matrix
+# AZSMZ ESP32 Matrix panel controller
 
 ## Where to get:
 ## http://bancuit.aliexpress.com 
