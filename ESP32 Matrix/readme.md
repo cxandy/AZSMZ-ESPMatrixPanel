@@ -3,10 +3,14 @@
 ## Where to get:
 ## http://bancuit.aliexpress.com 
 
+Click photo for a quick demo.
+
+[![AZSMZ ESP32 Matrix](/ESP32Photos/ESP32MATRIX-A4.jpg)](https://www.youtube.com/watch?v=i0M6F4wRxGc)
+
 ![AZSMZ ESP32 Matrix](/ESP32Photos/ESP32MATRIX-A12-1024.jpg)
 
 ![AZSMZ ESP32 Matrix](/ESP32Photos/ESP32MATRIX-A3.jpg)
-![AZSMZ ESP32 Matrix](/ESP32Photos/ESP32MATRIX-A4.jpg)
+
 
 ## https://github.com/mrfaptastic/ESP32-RGB64x32MatrixPanel-I2S-DMA
 
