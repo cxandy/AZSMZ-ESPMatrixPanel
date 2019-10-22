@@ -3,7 +3,7 @@
 ## Where to get:
 ## http://bancuit.aliexpress.com 
 
-Click photo for a quick demo.
+Click for a quick demo. http://www.youtube.com/watch?v=AYoAmea1BcA
 [![AZSMZ ESP32 Matrix](/ESP32Photos/ESP32MATRIX-A4.jpg)](http://www.youtube.com/watch?v=AYoAmea1BcA)
 ![AZSMZ ESP32 Matrix](/ESP32Photos/ESP32MATRIX-A12-1024.jpg)
 ![AZSMZ ESP32 Matrix](/ESP32Photos/ESP32MATRIX-A3.jpg)
