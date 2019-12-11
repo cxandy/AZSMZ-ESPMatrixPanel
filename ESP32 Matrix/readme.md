@@ -13,7 +13,7 @@ Click for a quick demo. http://www.youtube.com/watch?v=AYoAmea1BcA
 
 the pin mapping is as follows.
 
-v1.5
+PCB v1.5
 ```
  HUB 75 PANEL              ESP 32 PIN
 +-----------+   
@@ -44,7 +44,7 @@ v1.5
 #define CLK_PIN 25
 ```
 
-v1.2
+PCB v1.2
 ```
  HUB 75 PANEL              ESP 32 PIN
 +-----------+   
