@@ -1,8 +1,8 @@
 # AZSMZ ESP32 Matrix panel controller
 
 ## Where to get:
-## https://www.ebay.com/usr/4917450
-## https://www.tindie.com/stores/cxandy/
+### https://www.ebay.com/usr/4917450
+### https://www.tindie.com/stores/cxandy/
 
 Click for a quick demo. http://www.youtube.com/watch?v=AYoAmea1BcA
 [![AZSMZ ESP32 Matrix](/ESP32Photos/ESP32MATRIX-A4.jpg)](http://www.youtube.com/watch?v=AYoAmea1BcA)
